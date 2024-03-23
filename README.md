@@ -4,8 +4,7 @@ title: Home
 
 ## CONTACT INFORMATION
 
-- Linkedin：
-  - **[Linkedin](https://www.linkedin.com/)**
+- Linkedin：  **[Linkedin Andrew](https://www.linkedin.com/)**
 - Address：
   - **Chengdu, Sichuan Province**
 - Phone Number：
