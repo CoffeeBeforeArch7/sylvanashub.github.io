@@ -1,5 +1,5 @@
 title: Slyvanashub'S BLOG # 站点标题
-tagline: Slyvanashub
+tagline: Andrew
 description: | # 头像背后的信息，<br/>代表换行
   ASIC<br/>
   Hardware<br/>
@@ -64,16 +64,16 @@ jekyll-theme-WuK: # 用了wu-kan的主题，自定义样式都在这个命名空
       - | # 支持的变量见https://merger.justhx.com/cn/docs/configure
         <script>
           var usage = "payment";
-          var wechat = "wxp://f2f0hmr4e62SdZMsDo6yLrLMGBXg0wThdAxiQlyFIaPKsKM";
-          var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&a=1&u=739197909&ac=CAEQ1Ye94AIY9dikjwY%3D_xxx_sign&n=Verdvana&f=wallet";
-          var alipay = "https://qr.alipay.com/fkx12869jxrthplaqunbf48";
-          var paypal = "https://paypal.me/verdvana?country.x=C2&locale.x=zh_XC";
-          var myname = "Verdvana";
+          var wechat = "X";
+          var tenpay = "X";
+          var alipay = "X";
+          var paypal = "X";
+          var myname = "Slyvanashub";
           var profile = "/static/img/avatar.jpg";
           var multilingual = true;
-          var myname_hans = "Verdvana";
-          var myname_hant = "Verdvana";
-          var myname_eng = "Verdvana";
+          var myname_hans = "Slyvanashub";
+          var myname_hant = "Slyvanashub";
+          var myname_eng = "Slyvanashub";
           var title = "选择你的支付方式";
           var subtitle = "向" + myname + "打赏";
           var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
