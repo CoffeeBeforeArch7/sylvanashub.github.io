@@ -2,10 +2,10 @@
 title: Home
 ---
 
-## 联系方式
+## CONTACT INFORMATION
 
 - 地址：
-  - **四川省成都市**
+  - **Chengdu, Sichuan Province**
 - 电话：
   - **+86 13666288783**
   
@@ -17,31 +17,31 @@ title: Home
 
 ----
 
-## 教育背景
+## EDUCATION BACKGROUND
 
-#### __University of Illinois Urbana-Champaign__ `2024.9 - 2026.6`
+#### __University of Illinois Urbana-Champaign__ `2024.09 - 2026.06`
 
 - _electrical and computer engineering_ &#160; &#160; __M.Eng__
 
-#### __Xihua University__ `2018.9 - 2022.7`
+#### __Xihua University__ `2018.09 - 2022.07`
 
 - _Mechanical Design Manufacture & Automation_ &#160; &#160; __B.Eng__
 
 ----
 
-## 工作经历
+## INDUSTRY EXPERIENCE
 #### __[Contemporary Amperex Technology Co., Ltd.](https://www.catl.com/en/about/profile/)__ `2022.08 - 2023.09`
 -  BMS Assistant Hardware Engineer
 
-#### __[X0](https://www.qualcomm.cn/)__ `2021.6 - 2023.12`
+#### __[X0](https://www.qualcomm.cn/)__ `2021.06 - 2023.12`
 - ASICs Engineering Engineer
 
-#### __[X1](https://www.qualcomm.cn/)__ `2020.6 - 2020.9`
+#### __[X1](https://www.qualcomm.cn/)__ `2020.06 - 2020.9`
 - ASICs Engineering Intern
 
 ----
 
-## 工程项目
+## ENGINEERING PROJECTS
 
 
 - [![Star](https://img.shields.io/github/stars/Verdvana/Microwave_Intelligent_Perception_Platform.svg)](https://github.com/Verdvana/Microwave_Intelligent_Perception_Platform) [![Fork](https://img.shields.io/github/forks/Verdvana/Microwave_Intelligent_Perception_Platform.svg)](https://github.com/Verdvana/Microwave_Intelligent_Perception_Platform) [微波智能感知平台](https://github.com/Verdvana/Microwave_Intelligent_Perception_Platform) `2019.03-2021.04`
@@ -72,7 +72,7 @@ title: Home
 
 ----
 
-## 专业技能
+## PROFESSIONAL SKILLS
 
 * **ASIC Design**
   * [Verilog](https://web.archive.org/web/20120716210757/http://www.verilog.com/IEEEVerilog.html) / [SystemVerilog](https://standards.ieee.org/standard/1800-2009.html) / [Perl](https://www.perl.org/) / [Tcl](https://www.tcl.tk/)
