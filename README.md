@@ -10,7 +10,7 @@ title: Home
   - **+86 13666288783**
   
 - 邮箱：
-  - **[falcon11@o163.com](falcon11@163.com)**
+  - **[falcon11@163.com](falcon11@163.com)**
 - 微信：
   - **[Sylvanashub](./static/img/wechat.jpg)**
 
