@@ -4,14 +4,14 @@ title: Home
 
 ## CONTACT INFORMATION
 
-- 地址：
+- Address：
   - **Chengdu, Sichuan Province**
-- 电话：
+- Phone Number：
   - **+86 13666288783**
   
-- 邮箱：
+- Email：
   - **[falcon11@163.com](falcon11@163.com)**
-- 微信：
+- WeChat：
   - **[Sylvanashub](./static/img/wechat.jpg)**
 
 
