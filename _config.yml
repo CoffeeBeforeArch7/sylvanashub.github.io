@@ -231,7 +231,6 @@ jekyll-theme-WuK: # 用了wu-kan的主题，自定义样式都在这个命名空
         - |
           <div>
             <i class="fas fa-images fa-fw"></i>
-            壁纸作者：WYBYXV
           </div>
         - | # 运行时间
           <div>
