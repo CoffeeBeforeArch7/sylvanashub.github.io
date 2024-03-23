@@ -19,9 +19,9 @@ title: Home
 
 ## 教育背景
 
-#### __西安电子科技大学__ `2018.9 - 2021.6`
+#### __University of Illinois Urbana-Champaign__ `2024.9 - 2026.6`
 
-- _电子与通信工程_ &#160; &#160; __硕士__
+- _electrical and computer engineering_ &#160; &#160; __M.Eng__
 
 #### __Xihua University__ `2018.9 - 2022.7`
 
