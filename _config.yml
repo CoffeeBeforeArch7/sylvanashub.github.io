@@ -8,10 +8,10 @@ description: | # 头像背后的信息，<br/>代表换行
   <a href="/static/img/wechat.jpg" title="WeChat">
     <i class="fab fa-weixin"></i>
   </a>
-  <a href="mailto:verdvana@outlook.com" title="Mail">
+  <a href="mailto:falcon11@163.com" title="Mail">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/verdvana" title="Github">
+  <a href="https://github.com/Sylvanashub" title="Github">
     <i class="fab fa-github"></i>
   </a>
   <a href="https://www.zhihu.com/people/verdvana/activities" title="知乎">
@@ -27,7 +27,7 @@ description: | # 头像背后的信息，<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://verdvana.cn # https://Verdvana.github.io
+url: https://github.com/Sylvanashub # https://Verdvana.github.io  在这里粘贴学长买的域名地址，但是现在没有买，暂时用免费的
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 plugins: # https://jekyllrb.com/docs/plugins/
@@ -38,7 +38,7 @@ plugins: # https://jekyllrb.com/docs/plugins/
   - jekyll-feed
   - jekyll-seo-tag
 
-remote_theme: https://github.com/Verdvana/jekyll-theme-Verdvana # 使用remote_theme插件实现主题的前后分离，详见https://github.com/benbalter/jekyll-remote-theme/
+remote_theme: https://github.com/Sylvanashub/jekyll-theme-Sylvanashub-master # 使用remote_theme插件实现主题的前后分离，详见https://github.com/benbalter/jekyll-remote-theme/
 jekyll-theme-WuK: # 用了wu-kan的主题，自定义样式都在这个命名空间
   home:
     recent:
