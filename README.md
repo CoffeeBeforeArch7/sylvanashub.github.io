@@ -23,7 +23,7 @@ title: Home
 
 #### __University of Illinois Urbana-Champaign__ `2024.09 - 2026.06`
 
-- _electrical and computer engineering_ &#160; &#160; __M.Eng__
+- _Electrical and Computer Engineering_ &#160; &#160; __M.Eng__
 
 #### __Xihua University__ `2018.09 - 2022.07`
 
