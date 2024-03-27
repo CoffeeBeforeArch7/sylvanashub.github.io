@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Verilog运算符RTLandTB_MP"
-date:   2024-3-27 18:24:26 +0700
+date:   2024-3-26 18:24:26 +0700
 tags:
   - Verilog HDL_Machine Problem
 
