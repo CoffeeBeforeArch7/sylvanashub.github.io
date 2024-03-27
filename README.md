@@ -67,7 +67,7 @@ title: Home
 
 - 带啸叫检测与抑制的功率放大电路 `2022.06-2022.09`
 
-- [![Star](https://img.shields.io/github/stars/Sylvanashub/Wind-pendulum-control-system.svg)](https://github.com/Sylvanashub/Wind-pendulum-control-system) [![Fork](https://img.shields.io/github/forks/Sylvanashub/Wind-pendulum-control-system.svg)](https://github.com/Sylvanashub/Wind-pendulum-control-system) [风力摆](https://github.com/Sylvanashub/Wind-pendulum-control-system) `2017.06-2017.09`
+- [![Star](https://img.shields.io/github/stars/Sylvanashub/Wind-pendulum-control-system.svg)](https://github.com/Sylvanashub/Wind-pendulum-control-system) [![Fork](https://img.shields.io/github/forks/Sylvanashub/Wind-pendulum-control-system.svg)](https://github.com/Sylvanashub/Wind-pendulum-control-system) [Wind_Pendulum](https://github.com/Sylvanashub/Wind-pendulum-control-system) `2017.06-2017.09`
 
 
 
