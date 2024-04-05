@@ -116,8 +116,8 @@ jekyll-theme-WuK: # 用了wu-kan的主题，自定义样式都在这个命名空
         onload='
           new Valine({
             "el": ".v",
-            "appId": "0KCYIvqG5ktP9Pw9zjIQyESV-gzGzoHsz",
-            "appKey": "hVnb4I7RVQClldY6uAIuYGrk",
+            "appId": "5E8bGkpewQkNQgrppy3zxQXa-gzGzoHsz",
+            "appKey": "Ex0SMAbK6cdc66P86cA3IY9y",
             "notify": "true",
             "verify": "true",
             "avatar": "identicon",
