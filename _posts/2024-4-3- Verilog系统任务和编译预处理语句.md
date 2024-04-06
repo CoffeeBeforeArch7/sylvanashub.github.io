@@ -168,6 +168,10 @@ assign out = a + b + c + d + e
 
 ### 用'include语句设计16位加法器
 
+该处adder.v和adder16.v两个模块都在同一个子目录下面，必须指明绝对路径才能运行，原因是Makefile的问题，Makefile里没有定义当前文件所在目录，所以include里直接写文件名找不到要用绝对路径
+
+参考：https://blog.csdn.net/wohu1104/article/details/111085894
+
 ![image1][]
 
 
