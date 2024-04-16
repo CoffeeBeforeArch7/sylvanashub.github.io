@@ -14,7 +14,7 @@ title: Home
 - Email：
   - **[falcon11@163.com](falcon11@163.com)**
 - WeChat：
-  - **[Sylvanashub](./static/img/wechat.jpg)**
+  - **[makepxproud](./static/img/wechat.jpg)**
 
 
 ----
