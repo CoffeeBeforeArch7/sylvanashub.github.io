@@ -21,7 +21,7 @@ title: Home
 
 ## EDUCATION BACKGROUND
 
-#### __University of Illinois Urbana-Champaign__ `2024.09 - 2026.06`
+#### __University of Illinois Urbana-Champaign__ `2024.08 - 2026.06`
 
 - _Electrical and Computer Engineering_ &#160; &#160; __M.Eng__
 
