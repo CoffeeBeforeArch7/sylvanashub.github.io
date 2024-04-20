@@ -64,10 +64,10 @@ jekyll-theme-WuK: # 用了wu-kan的主题，自定义样式都在这个命名空
       - | # 支持的变量见https://merger.justhx.com/cn/docs/configure
         <script>
           var usage = "payment";
-          var wechat = "wxp://f2f0hmr4e62SdZMsDo6yLrLMGBXg0wThdAxiQlyFIaPKsKM";
-          var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&a=1&u=739197909&ac=CAEQ1Ye94AIY9dikjwY%3D_xxx_sign&n=Verdvana&f=wallet";
-          var alipay = "https://qr.alipay.com/fkx12869jxrthplaqunbf48";
-          var paypal = "https://paypal.me/verdvana?country.x=C2&locale.x=zh_XC";
+          var wechat = "wxp://f2f0ogOer2vh_NY7tzH-Fi504zpo9lmQgXpzFc_hHB3ZbUnAx5gTSmgQMElccSgaxcrh";
+          var tenpay = "https://qr.alipay.com/fkx15563u7dvjf4pccawkd8";
+          var alipay = "https://qr.alipay.com/fkx15563u7dvjf4pccawkd8";
+          var paypal = "https://paypal.me/verdvana?country.x=C2&locale.x=zh_XC"; # 等待修改
           var myname = "Slyvanashub";
           var profile = "/static/img/avatar.jpg";
           var multilingual = true;
