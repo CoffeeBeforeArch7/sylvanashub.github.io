@@ -67,7 +67,7 @@ jekyll-theme-WuK: # 用了wu-kan的主题，自定义样式都在这个命名空
           var wechat = "wxp://f2f0ogOer2vh_NY7tzH-Fi504zpo9lmQgXpzFc_hHB3ZbUnAx5gTSmgQMElccSgaxcrh";
           var tenpay = "https://qr.alipay.com/fkx15563u7dvjf4pccawkd8";
           var alipay = "https://qr.alipay.com/fkx15563u7dvjf4pccawkd8";
-          var paypal = "https://paypal.me/verdvana?country.x=C2&locale.x=zh_XC"; # 等待修改
+          var paypal = "https://paypal.me/verdvana?country.x=C2&locale.x=zh_XC";
           var myname = "Slyvanashub";
           var profile = "/static/img/avatar.jpg";
           var multilingual = true;
