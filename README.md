@@ -7,7 +7,7 @@ title: Home
 - Linkedin：  **[Linkedin Andrew](https://www.linkedin.com/)**
   
 - Address：
-  - **ILINOIS 61801**
+  - **306 N. Wright St., Urbana, IL 61801, USA**
 - Phone Number：
   - **+1 8602949015**
   
