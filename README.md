@@ -7,7 +7,7 @@ title: Home
 - Linkedin：  **[Linkedin Andrew](https://www.linkedin.com/)**
   
 - Address：
-  - **Chengdu, Sichuan Province**
+  - **ILINOIS 21801**
 - Phone Number：
   - **+1 8602949015**
   
@@ -25,7 +25,7 @@ title: Home
 
 - _Electrical and Computer Engineering_ &#160; &#160; __M.Eng__
 
-#### __Xihua University__ `2018.09 - 2022.07`
+#### __Tsinghua University__ `2018.09 - 2022.07`
 
 - _Mechanical Design Manufacture & Automation_ &#160; &#160; __B.Eng__
 
