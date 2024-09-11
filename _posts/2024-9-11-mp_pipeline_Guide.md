@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "mp_pipeline Guide"
-date:   2024-9-10 00:55:10 +0700
+date:   2024-9-11 00:55:10 +0700
 tags:
   - ECE 411 MP
 
