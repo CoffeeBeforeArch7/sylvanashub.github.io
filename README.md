@@ -25,7 +25,7 @@ title: Home
 
 - _Electrical and Computer Engineering_ &#160; &#160; __M.Eng__
 
-#### __ Xihua University__ `2020.09 - 2022.07`
+####  Xihua University `2018.09 - 2022.07`
 
 - _Mechanical Design Manufacture & Automation_ &#160; &#160; __B.Eng__
 
