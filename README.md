@@ -23,11 +23,11 @@ title: Home
 
 #### __University of Illinois Urbana-Champaign__ `2026`
 
-- _Electrical and Computer Engineering_ &#160; &#160; __ME__
+- _Electrical and Computer Engineering_ &#160; &#160; ME
 
 ####  __Xihua University__ `2022`
 
-- _Mechanical Design Manufacture & Automation_ &#160; &#160; __BE__
+- _Mechanical Design Manufacture & Automation_ &#160; &#160; BE
 
 ----
 
