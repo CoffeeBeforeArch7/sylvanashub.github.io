@@ -4,7 +4,7 @@ title: Home
 
 ## CONTACT INFORMATION
 
-- Linkedin：  **[Linkedin Andrew](https://www.linkedin.com/)**
+- Linkedin：  **[Linkedin](https://www.linkedin.com/)**
   
 - Address：
   - **306 N. Wright St., Urbana, IL 61801, USA**
@@ -14,20 +14,20 @@ title: Home
 - Email：
   - **[falcon11@163.com](falcon11@163.com)**
 - WeChat：
-  - **[makepxproud](./static/img/wechat.jpg)**
+  - **[CoffeebeforeArch](./static/img/wechat.jpg)**
 
 
 ----
 
 ## EDUCATION BACKGROUND
 
-#### __University of Illinois Urbana-Champaign__ `2024.08 - 2026.06`
+#### __University of Illinois Urbana-Champaign__ `2026`
 
-- _Electrical and Computer Engineering_ &#160; &#160; __M.Eng__
+- _Electrical and Computer Engineering_ &#160; &#160; __ME__
 
-####  __Xihua University__ `2018.09 - 2022.07`
+####  __Xihua University__ `2022`
 
-- _Mechanical Design Manufacture & Automation_ &#160; &#160; __B.Eng__
+- _Mechanical Design Manufacture & Automation_ &#160; &#160; __BE__
 
 ----
 
