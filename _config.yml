@@ -1,5 +1,5 @@
-title: Slyvanashub's BLOG # 站点标题
-tagline: Slyvanashub
+title: Johnny's BLOG # 站点标题
+tagline: CoffeeBeforeArch
 description: | # 头像背后的信息，<br/>代表换行
   ASIC<br/>
   Hardware<br/>
@@ -11,7 +11,7 @@ description: | # 头像背后的信息，<br/>代表换行
   <a href="mailto:falcon11@163.com" title="Mail">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="//github.com/Sylvanashub" title="Github">
+  <a href="//github.com/CoffeeBeforeArch7" title="Github">
     <i class="fab fa-github"></i>
   </a>
   <a href="//www.zhihu.com" title="知乎">
@@ -27,10 +27,10 @@ description: | # 头像背后的信息，<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://github.com/Sylvanashub # 
+url: https://github.com/CoffeeBeforeArch7 # 
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
-plugins: # https://jekyllrb.com/docs/plugins/
+plugins: # //jekyllrb.com/docs/plugins/
   - jekyll-remote-theme # githubpage上支持的插件见https://pages.github.com/versions/
   - jekyll-readme-index # 使用readme做index，从而和github渲染效果一致
   - jekyll-default-layout
@@ -38,7 +38,7 @@ plugins: # https://jekyllrb.com/docs/plugins/
   - jekyll-feed
   - jekyll-seo-tag
 
-remote_theme: //github.com/Sylvanashub/jekyll-theme-Sylvanashub-master # 使用remote_theme插件实现主题的前后分离，详见https://github.com/benbalter/jekyll-remote-theme/
+remote_theme: //github.com/CoffeeBeforeArch7/jekyll-theme-CoffeeBeforeArch7-master # 使用remote_theme插件实现主题的前后分离，详见https://github.com/benbalter/jekyll-remote-theme/
 jekyll-theme-WuK: # 用了wu-kan的主题，自定义样式都在这个命名空间
   home:
     recent:
