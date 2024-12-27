@@ -11,15 +11,15 @@ description: | # 头像背后的信息，<br/>代表换行
   <a href="mailto:falcon11@163.com" title="Mail">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/Sylvanashub" title="Github">
+  <a href="//github.com/Sylvanashub" title="Github">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://www.zhihu.com" title="知乎">
+  <a href="//www.zhihu.com" title="知乎">
     <i class="fab fa-zhihu"></i>
   </a>
   <br/>
   <iframe
-    src="https://music.163.com/outchain/player?type=2&id=1842801328&auto=1&height=32"
+    src="//music.163.com/outchain/player?type=2&id=1842801328&auto=1&height=32"
     width=100%
     height=52
     frameborder="no"
@@ -38,7 +38,7 @@ plugins: # https://jekyllrb.com/docs/plugins/
   - jekyll-feed
   - jekyll-seo-tag
 
-remote_theme: https://github.com/Sylvanashub/jekyll-theme-Sylvanashub-master # 使用remote_theme插件实现主题的前后分离，详见https://github.com/benbalter/jekyll-remote-theme/
+remote_theme: //github.com/Sylvanashub/jekyll-theme-Sylvanashub-master # 使用remote_theme插件实现主题的前后分离，详见https://github.com/benbalter/jekyll-remote-theme/
 jekyll-theme-WuK: # 用了wu-kan的主题，自定义样式都在这个命名空间
   home:
     recent:
