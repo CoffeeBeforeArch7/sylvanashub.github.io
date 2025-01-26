@@ -27,7 +27,7 @@ title: Home
 
 ####  __Xihua University__ `2022`
 
-- _Mechanical Design Manufacture & Automation_ &#160; &#160; Bachelor in Engineering
+- _Mechanical Design Manufacture & Automation_ &#160; &#160; Bachelor of Engineering
 
 ----
 
