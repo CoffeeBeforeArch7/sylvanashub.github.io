@@ -12,7 +12,7 @@ title: Home
   - **+1 8602949015**
   
 - Email：
-  - **[falcon11@163.com](falcon11@163.com)**
+  - **[pinxuw@gmail.com](pinxuw@gmail.com)**
 - WeChat：
   - **[CoffeebeforeArch](./static/img/wechat.jpg)**
 
