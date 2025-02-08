@@ -32,14 +32,8 @@ title: Home
 ----
 
 ## INDUSTRY EXPERIENCE
-#### __[Contemporary Amperex Technology Co., Ltd.](https://www.catl.com/en/about/profile/)__ `2022.08 - 2023.09`
+#### __[Contemporary Amperex Technology Co., Ltd.](https://www.catl.com/en/about/profile/)__ `2023.02 - 2023.10`
 -  BMS Assistant Hardware Engineer
-
-#### __[Chipways Communications Technology Co., Ltd.](http://www.chipways.com/)__ `2021.06 - 2021.10`
-- ASICs Verification Engineer Intern
-
-#### __[X1](https://www.qualcomm.cn/)__ `2020.06 - 2020.9`
-- ASICs Engineering Intern
 
 ----
 
