@@ -33,7 +33,7 @@ title: Home
 
 ## INDUSTRY EXPERIENCE
 #### __[Enrigin Co., Ltd.](https://enrigin.com.cn/)__ `2025.02 - present`
--  Digital verification engineer | Intern
+-  Digital verification engineer \| Intern
 
 ----
 
