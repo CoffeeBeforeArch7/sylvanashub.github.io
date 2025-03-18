@@ -9,7 +9,7 @@ title: Home
 - Address：
   - **306 N. Wright St., Urbana, IL 61801, USA**
 - Phone Number：
-  - **+1 8602949015**
+  - **+1 2174170921**
   
 - Email：
   - **[pinxuw@gmail.com](pinxuw@gmail.com)**
@@ -32,8 +32,8 @@ title: Home
 ----
 
 ## INDUSTRY EXPERIENCE
-#### __[Contemporary Amperex Technology Co., Ltd.](https://www.catl.com/en/about/profile/)__ `2023.02 - 2023.10`
--  BMS Assistant Hardware Engineer
+#### __[Enrigin Co., Ltd.](https://enrigin.com.cn/)__ `2025.02 - present`
+-  Digital verification engineer | Intern
 
 ----
 
